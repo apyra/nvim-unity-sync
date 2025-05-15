@@ -2,6 +2,9 @@
 
 **Nvim Unity Sync** is a lightweight Neovim plugin designed to enhance Unity development inside Neovim. It automatically manages `.csproj` files based on file events, helping you avoid the need to manually regenerate project files in Unity.
 
+## Dependencies
+
+- [Nvim-tree](https://github.com/nvim-tree/nvim-tree.lua)
 
 ## ✨ Features
 
